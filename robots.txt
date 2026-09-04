@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Hello, curious robot operator.
+# Please index the good parts and pretend you never saw the bugs.
+# Coffee budget: robots do not need to know everything.
+
+Sitemap: https://justinp.dev/sitemap.xml
+
